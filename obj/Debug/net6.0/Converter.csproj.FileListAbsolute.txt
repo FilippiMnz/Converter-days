@@ -1,0 +1,15 @@
+/home/lipin-dev/projetos-C#/Converter/bin/Debug/net6.0/Converter
+/home/lipin-dev/projetos-C#/Converter/bin/Debug/net6.0/Converter.deps.json
+/home/lipin-dev/projetos-C#/Converter/bin/Debug/net6.0/Converter.runtimeconfig.json
+/home/lipin-dev/projetos-C#/Converter/bin/Debug/net6.0/Converter.dll
+/home/lipin-dev/projetos-C#/Converter/bin/Debug/net6.0/Converter.pdb
+/home/lipin-dev/projetos-C#/Converter/obj/Debug/net6.0/Converter.csproj.AssemblyReference.cache
+/home/lipin-dev/projetos-C#/Converter/obj/Debug/net6.0/Converter.GeneratedMSBuildEditorConfig.editorconfig
+/home/lipin-dev/projetos-C#/Converter/obj/Debug/net6.0/Converter.AssemblyInfoInputs.cache
+/home/lipin-dev/projetos-C#/Converter/obj/Debug/net6.0/Converter.AssemblyInfo.cs
+/home/lipin-dev/projetos-C#/Converter/obj/Debug/net6.0/Converter.csproj.CoreCompileInputs.cache
+/home/lipin-dev/projetos-C#/Converter/obj/Debug/net6.0/Converter.dll
+/home/lipin-dev/projetos-C#/Converter/obj/Debug/net6.0/refint/Converter.dll
+/home/lipin-dev/projetos-C#/Converter/obj/Debug/net6.0/Converter.pdb
+/home/lipin-dev/projetos-C#/Converter/obj/Debug/net6.0/Converter.genruntimeconfig.cache
+/home/lipin-dev/projetos-C#/Converter/obj/Debug/net6.0/ref/Converter.dll
